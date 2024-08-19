@@ -1,0 +1,13 @@
+{
+  "name": "cmlabs-test",
+  "version": "1.0.0",
+  "description": "cmlabs test internship backend",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "author": "misno sugianto",
+  "license": "ISC",
+  "type": "module"
+}
